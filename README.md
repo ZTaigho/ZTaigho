@@ -6,7 +6,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Grafana" height="30" width="30" src="https://github.com/ZTaigho/icons/blob/main/zabbix_logo_icon_167937.png">
+  <img align="center" alt="Zabbix" height="30" width="30" src="https://github.com/ZTaigho/icons/blob/main/zabbix_logo_icon_167937.png">
   
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Elastic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
