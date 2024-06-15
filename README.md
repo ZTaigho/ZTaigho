@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Thiago Santos, especialista de monitoramento e observabilidade!
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTaigho&show_icons=true&theme=transparent">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTaigho&show_icons=true&theme=transparent">
 </div>
 
 <div style="display: inline_block"><br>
