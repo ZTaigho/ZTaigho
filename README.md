@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Thiago Santos, especialista de monitoramento e observabilidade!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Elastic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
@@ -7,6 +9,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+
   
 ## 
 
