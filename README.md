@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Thiago Santos, especialista de monitoramento e observabilidade!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTaigho&show_icons=true&theme=transparent">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
