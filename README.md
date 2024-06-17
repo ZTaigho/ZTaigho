@@ -3,8 +3,8 @@
 Sou o Thiago Santos, especialista em monitoramento na empresa [Flowbix](https://flowbix.com/). Possuo certificação em Zabbix e também atuo com outras ferramentas, como, por exemplo, Grafana e Elasticsearch. Meu objetivo principal neste perfil é contribuir para o crescimento de outras pessoas. Estou aqui para ajudar e compartilhar conhecimento.
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ZTaigho&show_icons=true&theme=transparent"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTaigho&show_icons=true&theme=transparent">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zthiagosantos&show_icons=true&theme=transparent"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zthiagosantos&show_icons=true&theme=transparent">
 </div>
 
 ## Tecnologias e Ferramentas do meu dia a dia:
